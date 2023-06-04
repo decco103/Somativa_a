@@ -1,0 +1,4 @@
+meu azure apresentava "Falha na validação de implementação", "Falha na validação de implantação.
+Detalhes adicionais da API subjacente que podem ser úteis: The template deployment failed because of policy violation. Please see details for more information."
+
+Não soube resolver isso para subir o banco de dados para o azure.
